@@ -1,2 +1,2 @@
 # BaseIcs
-Baseball related projects
+Baseball related projects to be published for BaseIcs, Italian Center of Sabermetrics.
